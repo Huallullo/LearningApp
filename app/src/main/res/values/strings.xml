@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Learning App</string>
+    <string name="cursos">Cursos</string>
+    <string name="progreso">Progreso</string>
+    <string name="logros">Logros</string>
+    <string name="continuar_aprendiendo">Continuar Aprendiendo</string>
+    <string name="mis_cursos">Mis Cursos</string>
+    <string name="cursos_populares">Cursos Populares</string>
+    <string name="detalles_curso">Detalles del Curso</string>
+    <string name="mi_progreso">Mi Progreso</string>
+</resources>
