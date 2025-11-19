@@ -60,7 +60,7 @@ fun LearningApp() {
 
     val user = remember {
         User(
-            name = "María González",
+            name = "Abel Huallullo Matos  ",
             photoUrl = "",
             coursesInProgress = 3,
             completedCourses = 12,

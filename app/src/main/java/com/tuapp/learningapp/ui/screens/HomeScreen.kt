@@ -185,7 +185,7 @@ fun UserHeader(user: User) {
                 contentAlignment = Alignment.Center
             ) {
                 Text(
-                    text = "👩‍🎓",
+                    text = "👨‍🎓",
                     style = MaterialTheme.typography.headlineLarge
                 )
             }
