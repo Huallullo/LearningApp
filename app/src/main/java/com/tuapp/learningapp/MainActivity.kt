@@ -141,7 +141,8 @@ fun LearningApp() {
     val certificates = remember {
         listOf(
             Certificate(1, "Kotlin Básico", "Dic 2024", true),
-            Certificate(2, "Android Fundamentals", "Oct 2024", true)
+            Certificate(2, "Android Fundamentals", "Oct 2024", true),
+            Certificate(3, "Java avanzado", "Ene 2025", true)
         )
     }
 
